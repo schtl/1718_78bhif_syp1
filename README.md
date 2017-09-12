@@ -9,4 +9,4 @@ Katalognummer, Namen und Geburtsdatum (ohne Jahr)
 in die Datei und checkt diese wieder ein.
 Danach holt sihc die #2 die Datei, ergänzt um seine Daten und checkt iwiederum ein usw.
 END 170912
-Tscharre Marcel
+Tscharre Marcel - 17
