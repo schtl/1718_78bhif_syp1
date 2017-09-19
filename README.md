@@ -10,4 +10,5 @@ in die Datei und checkt diese wieder ein.
 Danach holt sich die #2 die Datei, ergänzt um seine Daten und checkt wiederum ein usw.
 END 170912
 Erik Bindar - 1
+Michael Hoedl - 4
 Tscharre Marcel - 17
