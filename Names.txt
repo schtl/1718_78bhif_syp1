@@ -5,3 +5,4 @@ Martin Greiml - 3
 Michael Hoedl - 4
 Filip Kindermann - 5 
 Benedikt Klöckl - 6
+Sebastian Legat - 8
