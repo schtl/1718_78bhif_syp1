@@ -1,7 +1,5 @@
-Insert here
+﻿Insert here
 Erik Bindar - 1
-<<<<<<< HEAD
 Elena Gödl - 2
-=======
+Martin Greiml - 3
 Michael Hoedl - 4
->>>>>>> 119492c65d15c9f96f9af5a92d3f159dd66ba284
