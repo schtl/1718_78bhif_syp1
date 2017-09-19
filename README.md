@@ -9,6 +9,11 @@ Katalognummer, Namen und Geburtsdatum (ohne Jahr)
 in die Datei und checkt diese wieder ein.
 Danach holt sich die #2 die Datei, ergänzt um seine Daten und checkt wiederum ein usw.
 END 170912
+<<<<<<< HEAD
+
+Rath Michi - Kat Nr.: <Kat Nr einfügen>
+=======
 Erik Bindar - 1
 Michael Hoedl - 4
 Tscharre Marcel - 17
+>>>>>>> 7a07924b1e73a58fbace8cb3266e2f265d72d39c
